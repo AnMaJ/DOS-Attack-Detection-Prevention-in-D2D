@@ -1,0 +1,5 @@
+% time	cellId	IMSI	RNTI	currFr	currSf	scPrdStartFr	scPrdStartSf	psschRbLen	psschStartRb	mcs	sizeTb	rv	dropped
+2924	0	1	1	293	9	293	1	5	17	16	193	0	0
+2932	0	1	1	294	7	293	1	5	17	16	193	1	0
+2940	0	1	1	295	5	293	1	5	17	16	193	2	0
+2948	0	1	1	296	3	293	1	5	17	16	193	3	0
